@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/draftjs-conductor/static/css/main.9e73dc33.chunk.css",
+    "main.js": "/draftjs-conductor/static/js/main.acb929fd.chunk.js",
+    "main.js.map": "/draftjs-conductor/static/js/main.acb929fd.chunk.js.map",
+    "runtime-main.js": "/draftjs-conductor/static/js/runtime-main.56ac5334.js",
+    "runtime-main.js.map": "/draftjs-conductor/static/js/runtime-main.56ac5334.js.map",
+    "static/css/2.a17ebd6e.chunk.css": "/draftjs-conductor/static/css/2.a17ebd6e.chunk.css",
+    "static/js/2.2bc2abf1.chunk.js": "/draftjs-conductor/static/js/2.2bc2abf1.chunk.js",
+    "static/js/2.2bc2abf1.chunk.js.map": "/draftjs-conductor/static/js/2.2bc2abf1.chunk.js.map",
+    "index.html": "/draftjs-conductor/index.html",
+    "precache-manifest.418e98560df719fafc0056b22fea613f.js": "/draftjs-conductor/precache-manifest.418e98560df719fafc0056b22fea613f.js",
+    "service-worker.js": "/draftjs-conductor/service-worker.js",
+    "static/css/2.a17ebd6e.chunk.css.map": "/draftjs-conductor/static/css/2.a17ebd6e.chunk.css.map",
+    "static/css/main.9e73dc33.chunk.css.map": "/draftjs-conductor/static/css/main.9e73dc33.chunk.css.map",
+    "static/js/2.2bc2abf1.chunk.js.LICENSE.txt": "/draftjs-conductor/static/js/2.2bc2abf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56ac5334.js",
+    "static/css/2.a17ebd6e.chunk.css",
+    "static/js/2.2bc2abf1.chunk.js",
+    "static/css/main.9e73dc33.chunk.css",
+    "static/js/main.acb929fd.chunk.js"
+  ]
+}
